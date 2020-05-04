@@ -4,6 +4,11 @@ Hello world, this repository implements reinforcment learning for Ms. Pacman.
 We use Open AI's gym to get Ms. Pacman's environment. 
 And the latest version of Tensorflow to train our agent using DeepQNetwork to update QTable.
 
+I have made a youtube video for a detailed explantion of the code : https://www.youtube.com/watch?v=Qqmfqq553RI&t=1s 
+
+You can also read my blog on medium to gain more understading about this repository: 
+https://medium.com/@jashr2312/how-to-make-self-learning-games-using-reinforcement-learning-dee2f8904b71
+
 ### Packages Required 
 
 - gym
